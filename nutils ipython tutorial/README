@@ -1,0 +1,32 @@
+This tutorial will assume a basic understading of:
+
+* python 3: https://docs.python.org/3/tutorial/
+
+* python numpy library https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+
+* basic PDE's, like heat/diffusion
+
+* Conspetial consept of Finite Element Method
+
+
+This is a demonstration of the use of nutils with the use of ipython/jupther notebooks with focus on examples.
+
+## Getting the right workvenvirment,
+
+The easiest way to get ipython/jupther notebooks running is with a version of python from anaconda 3: https://anaconda.org/
+
+This will install almost everything you need to get nutils running.
+
+We only need nutils got to the nutils github page: https://github.com/nutils/nutils and downlaod the most current version
+
+python setup.py install
+
+
+This should install nutils.
+
+
+
+
+
+
+
